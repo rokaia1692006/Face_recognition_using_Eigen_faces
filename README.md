@@ -10,6 +10,3 @@ live test is included
 ```python
 pip install opencv-python numpy matplotlib scikit-learn pandas
 ```
-
-# download facial detection model
-haarcascade_frontalface_default.xml
