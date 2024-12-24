@@ -7,7 +7,7 @@ creates eigen faces and standarizes the data\
 trains an svm model\
 live test is included\
 # libraries needed
-'''python
+```python
 pip install opencv-python numpy matplotlib scikit-learn pandas
 ```
 
