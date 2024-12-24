@@ -1,5 +1,5 @@
 # Custom facial recognition using Eigen Faces and pca 
-starts by creating custom dataset (add several faces for accurate recognition) using face detection < br \>
+starts by creating custom dataset (add several faces for accurate recognition) using face detection \
 dataset is grayscale images of faces only
 dataset is then resized to 100px,100px
 saves flatened images into a numpy array
